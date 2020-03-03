@@ -11,7 +11,7 @@
       <p><b>明星：Novak Djokovic</b></p>
       </td>
     <td width="25%">
-      <img src="/My Ajde Nole.jpg" width="100%">
+      <img src="/nole.jpg" width="100%">
     </td>
   </tr>
 </table>
