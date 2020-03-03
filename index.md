@@ -41,4 +41,4 @@
 - 比赛获奖：浙江省国画A级 宁波市物理竞赛二等奖
 
 ### ❥想看看[我的生活][1]吗？
-[1]: wodeshenghuo.md
+[1]: hanjiashenghuo.md
